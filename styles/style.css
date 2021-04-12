@@ -1,3 +1,15 @@
 h1 {
   background: red;
 }
+
+.middle {
+  background: yellow;
+}
+
+.middle h2 {
+  background: green;
+}
+
+.middle p {
+  background: blue;
+}
